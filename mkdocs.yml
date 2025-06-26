@@ -8,6 +8,7 @@ nav:
   - 'Контакты': contacts.md
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   icon:
     logo: material/fire
